@@ -18,3 +18,5 @@ WC3 jigsaw no bugs.
 
 Responsive:
 ![Skärmbild 2022-01-01 181109](https://user-images.githubusercontent.com/49871548/147856070-5f7d8924-652f-4736-8a2f-6bd5c3b71060.png)
+
+Lighthouse:
